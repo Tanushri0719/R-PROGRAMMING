@@ -1,0 +1,1 @@
+plot(density(iris$Sepal.Length), main="Density Plot of Sepal Length", col="purple")
